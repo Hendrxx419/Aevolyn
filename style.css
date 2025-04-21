@@ -19,7 +19,7 @@ body {
 .logo {
   font-size: 1.6rem;
   font-weight: bold;
-  color: #cccccc;
+  color: #e0e0e0; /* Brighter silver */
 }
 
 .navbar ul {
